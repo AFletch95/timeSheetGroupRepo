@@ -1,0 +1,11 @@
+.labelText{
+  margin-top: 0.3em;
+  margin-bottom: 0em;
+  font-weight: 500;
+}
+.formTextBox{
+  width: 100%;
+}
+.card{
+  border: solid 1px black;
+}
